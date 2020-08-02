@@ -17,8 +17,6 @@
 <br><br><br>
 
 ## Goal
-
-
 <br><br>
 
 This is My First Column Project, on my blog
