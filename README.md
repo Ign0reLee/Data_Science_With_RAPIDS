@@ -7,16 +7,12 @@
 
 ## Blog Address
 
-
+  [Lee Je Young's Study Blog](https://ign0relee.github.io/) : My blog
 <br><br>
-[Lee Je Young's Study Blog](https://ign0relee.github.io/)
+  [Introduction](https://ign0relee.github.io/Data-Science-With-RAPIDS-Intro) : Introduction of this Column
 <br><br>
-[Introduction](https://ign0relee.github.io/Data-Science-With-RAPIDS-Intro)
-<br><br><br>
 
 ## Goal
-<br><br>
-
 This is My First Column Project, on my blog
 
 so I want to write to using Korean and fundamentals of RAPIDS
