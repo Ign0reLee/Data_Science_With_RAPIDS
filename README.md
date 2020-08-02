@@ -8,7 +8,7 @@
 
 
 ## Blog Address
----
+
 
 <br><br>
 [Lee Je Young's Study Blog](https://ign0relee.github.io/)
@@ -17,7 +17,7 @@
 <br><br><br>
 
 ## Goal
----
+
 
 <br><br>
 
