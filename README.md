@@ -1,9 +1,7 @@
 # Data Science With RAPIDS
 
-
-<br><br>
   This repository is a test example for a series of columns in my blog.
-<br><br><br> 
+<br><br>
 
 
 
